@@ -43,9 +43,21 @@ class _LoginState extends State<Login> {
               )
             ),
 
-            child: Icon(Icons.arrow_back_ios_new_rounded, color: primary, size: 30,),
+            child: Icon(Icons.arrow_back_ios_new_rounded, color: primary, 
+            size: 30,),
           ),
           ),
+        
+          //Dp
+          Container(
+            height: 110,
+            width: 110,
+            decoration: BoxDecoration(
+              color: Colors.blue.shade100,
+              borderRadius: BorderRadius.circular(360)
+            ),
+          )
+        
         ],
       ),
     ),
