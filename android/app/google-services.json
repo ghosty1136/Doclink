@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "901984460055",
+    "project_id": "doclink-72af0",
+    "storage_bucket": "doclink-72af0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901984460055:android:5de3462010ea17e7e3eb52",
+        "android_client_info": {
+          "package_name": "com.example.kodoctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYc0cZg2mQ6L39kyyRLSh0lyizrz-vVz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901984460055:android:08d55ec960c82629e3eb52",
+        "android_client_info": {
+          "package_name": "com.hospital.doclink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYc0cZg2mQ6L39kyyRLSh0lyizrz-vVz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
