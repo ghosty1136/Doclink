@@ -12,7 +12,20 @@
           "package_name": "com.example.kodoctor"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "901984460055-0fs6sah9p4n0egc6vj5m3lvu8o3fi35k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kodoctor",
+            "certificate_hash": "aa8192037772b4b11ad85777b77a080c38656c5d"
+          }
+        },
+        {
+          "client_id": "901984460055-9074huqe4ef34dabn23re79ma3cqfk1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCYc0cZg2mQ6L39kyyRLSh0lyizrz-vVz8"
@@ -20,26 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:901984460055:android:08d55ec960c82629e3eb52",
-        "android_client_info": {
-          "package_name": "com.hospital.doclink"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCYc0cZg2mQ6L39kyyRLSh0lyizrz-vVz8"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901984460055-9074huqe4ef34dabn23re79ma3cqfk1k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "901984460055-g0l4v9ga9p9iqcd0tn79rt3ultbhfu8b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kodoctor"
+              }
+            }
+          ]
         }
       }
     }
